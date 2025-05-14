@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>TimePochi - 勤怠管理アプリ</title>
+  <style>
+    body { font-family: sans-serif; max-width: 720px; margin: 2em auto; line-height: 1.6; }
+    h1 { border-bottom: 2px solid #ccc; padding-bottom: 0.5em; }
+    nav a { margin-right: 1em; }
+  </style>
+</head>
+<body>
+  <h1>TimePochi - シンプルな勤怠管理アプリ</h1>
+  <p>TimePochiは、出勤・休憩・退勤をワンタップで記録し、作業内容をGoogleスプレッドシートに出力できるAndroidアプリです。</p>
+
+  <nav>
+    <a href="privacy.html">プライバシーポリシー</a>
+    <a href="terms.html">利用規約</a>
+  </nav>
+
+  <h2>主な機能</h2>
+  <ul>
+    <li>ワンタップで出勤・退勤・休憩記録</li>
+    <li>Googleスプレッドシート連携</li>
+    <li>月別・年別でログ管理</li>
+  </ul>
+
+  <h2>お問い合わせ</h2>
+  <p>ご不明な点は以下までお問い合わせください。</p>
+  <p><strong>contact@fumifuyo.com</strong></p>
+</body>
+</html>
